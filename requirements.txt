@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+pandas
+pyarrow
+textblob
+scikit-learn
+python-dotenv
+matplotlib
+seaborn

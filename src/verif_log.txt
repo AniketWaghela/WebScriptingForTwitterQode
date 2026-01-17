@@ -1,0 +1,4 @@
+   timestamp user content  ... likes  mentions  hashtags
+0 2021-01-01    u    test  ...     0                    
+
+[1 rows x 9 columns]
